@@ -1,12 +1,22 @@
 {
-  "description": "I'm a ASP.NET Core developer based studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a ASP.NET Core developer based on Iran, specialized in creating reliable Web APIs.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Object-orinted Programming in C#",
+    "Data Access Using LINQ",
+    "Asynchronous Programming",
+    "Unit Testing",
+    "Secure Coding",
+    "Dependency Injection",
+    "Object-oriented Design",
+    "Refactoring to SOLID",
+    "Design Patterns",
+    "Entity Framework Core",
+    "ASP.NET Core MVC",
+    "ASP.NET Core Web API",
+    "Authentication and Authorization",
+    "Logging and Monitoring",
+    "Documenting ASP.NET Core Web AIP",
+    "Deploying ASP.NET Core to Azure App Services"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about solving problems in enterprise applications. By leveraging my .NET Core experience I continually look for new and better ways to make fast and reliable software solutions."
 }
