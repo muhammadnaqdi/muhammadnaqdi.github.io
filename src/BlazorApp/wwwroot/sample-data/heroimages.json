@@ -2,16 +2,16 @@
   {
     "name": "home",
     "src": "images/me-smoking-cigarettes.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "alt": "me smoking cigarettes"
   },
   {
     "name": "about",
     "src": "images/programming-on-laptop.jpg",
-    "alt": "gray abstract background"
+    "alt": "javascript on laptop"
   },
   {
     "name": "portfolio",
     "src": "images/me-young.jpg",
-    "alt": "desktop with books and laptop"
+    "alt": "young me"
   }
 ]
